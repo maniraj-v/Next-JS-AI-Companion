@@ -5,7 +5,7 @@ import { Menu } from "lucide-react";
 import { Poppins } from "next/font/google";
 import Link from "next/link";
 import { ModeToggle } from "@/components/mode-toggle";
-import { MobileSidebar } from "@/components/MobileSidebar";
+import { MobileSidebar } from "@/components/mobile-sidebar";
 
 const font = Poppins({
   weight: "600",
