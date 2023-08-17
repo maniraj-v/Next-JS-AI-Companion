@@ -11,7 +11,7 @@ const routes = [
     label: "Home",
   },
   {
-    href: "/create-new",
+    href: "/companion/new",
     icon: Plus,
     label: "Create",
   },
