@@ -33,7 +33,7 @@ const Navbar = () => {
       </div>
       <div className="flex items-center gap-x-4">
         <ModeToggle />
-        <UserButton />
+        <UserButton afterSignOutUrl="/" />
       </div>
     </nav>
   );
